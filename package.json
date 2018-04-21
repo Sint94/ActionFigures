@@ -1,0 +1,24 @@
+{
+  "name": "baito",
+  "version": "1.0.0",
+  "description": "RestAPI for Action Figures",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016https://github.com/Sint94/ActionFigures"
+  },
+  "keywords": [
+    "action",
+    "figures"
+  ],
+  "author": "Sint",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.15"
+  }
+}
